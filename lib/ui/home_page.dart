@@ -384,7 +384,7 @@ class _HomePageState extends State<HomePage> {
                             ".png";
 
                         String forecastTemperature =
-                            hourlyWeatherForecast[index]["temp_c"]
+                            hourlyWeatherForecast[index]['temp_c']
                                 .round()
                                 .toString();
                         return Container(
