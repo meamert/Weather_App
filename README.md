@@ -15,5 +15,6 @@ https://www.weatherapi.com/
 - <a href="./docs/TestSenaryosu.pdf" >Test Senaryosu</a>
 - <a href="./docs/UXArayüzTasarım.pdf" >UX Arayüz Tasarımı</a>
 - <a href="./docs/Uygulama Mimari Diyagramı.pdf" >Uygulama Mimari Diyagramı</a>
+- <a href="./docs/Uygulama Mimari Diyagramı.pdf" >Analiz Dökümanı</a>
 
 Not: Uygulamamızda veritabanı bulunmadığından ötürü Veritabanı Diyagramı dökümanı hazırlanmamıştır.
