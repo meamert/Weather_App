@@ -10,6 +10,10 @@ Projemiz kullanıcıları iklim koşulları, atmosferik tahminler ve hava durumu
 
 https://www.weatherapi.com/
 
+## Projenin Canlı Demosu
+
+https://youtu.be/Jl7tDXFbpAk
+
 ## Raporlar
 
 - <a href="./docs/TestSenaryosu.pdf" >Test Senaryosu</a>
