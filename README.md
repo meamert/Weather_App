@@ -14,6 +14,10 @@ https://www.weatherapi.com/
 
 https://youtu.be/Jl7tDXFbpAk
 
+## Projenin 100+ İndirilmesi
+
+<a href="./docs/PlayConsole+100.png" >Play Console 100+ İndirme Ekran Görüntüsü</a>
+
 ## Raporlar
 
 - <a href="./docs/TestSenaryosu.pdf" >Test Senaryosu</a>
@@ -22,3 +26,5 @@ https://youtu.be/Jl7tDXFbpAk
 - <a href="./docs/Uygulama Mimari Diyagramı.pdf" >Analiz Dökümanı</a>
 
 Not: Uygulamamızda veritabanı bulunmadığından ötürü Veritabanı Diyagramı dökümanı hazırlanmamıştır.
+
+
